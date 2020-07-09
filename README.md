@@ -1,4 +1,6 @@
 ### {oh,hi there 👋}
+![Welcome](https://github.com/Pai026/Pai026/blob/master/welcome.gif)
+![Name](https://github.com/arihant-2310/arihant-2310/blob/master/name.gif)
 
 <!--
 **arihant-2310/arihant-2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
