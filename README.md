@@ -1,4 +1,4 @@
-### Hi there 👋
+### {oh,hi there 👋}
 
 <!--
 **arihant-2310/arihant-2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
