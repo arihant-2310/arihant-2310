@@ -1,5 +1,10 @@
 ### {oh,hi there 👋}
+- myself
 ![Name](https://github.com/arihant-2310/arihant-2310/blob/master/name.gif)
+- a CSE student with complete 3 years experience 😄
+- 4th running as usual 😉
+- 📫 ping me:(https://www.instagram.com/arihant_2310/)
+        Let's spent some time dealing with bugs together 👯
 
 <!--
 **arihant-2310/arihant-2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
