@@ -1,5 +1,5 @@
-### {oh,hi there 👋}
 ![HitCount](http://hits.dwyl.com/arihant-2310/arihant-2310.svg)
+### {oh,hi there 👋}
 - myself
 ![Name](https://github.com/arihant-2310/arihant-2310/blob/master/name.gif)
 - a CSE student with complete 3 years experience 😄
