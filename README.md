@@ -1,4 +1,6 @@
 ![HitCount](http://hits.dwyl.com/arihant-2310/arihant-2310.svg)  <a href="https://github.com/arihant-2310"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>
+<a href="https://twitter.com/arihant2310"><img src="https://img.shields.io/twitter/follow/arihant2310?label=Follow&style=social"></a>
+
 
 ### {oh,hi there 👋}
 - myself
