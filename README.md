@@ -5,7 +5,7 @@
 - a CSE student with complete 3 years experience 😄
 - 4th running as usual 😉
 - 📫 ping me:(https://www.instagram.com/arihant_2310/)
-        Let's spent some time dealing with bugs together 👯 <br>
+        Let's spent some time dealing with bugs together 👯 <br><br>
  <a href="https://www.instagram.com/arihant_2310/"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>
 
 <!--
