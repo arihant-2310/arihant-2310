@@ -6,7 +6,7 @@
 - 4th running as usual 😉
 - 📫 ping me:(https://www.instagram.com/arihant_2310/)
         Let's spent some time dealing with bugs together 👯
- <a href="https://www.instagram.com/arihant_2310/"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>
+ <a href="https://www.instagram.com/arihant_2310/"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>\
 
 <!--
 **arihant-2310/arihant-2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
