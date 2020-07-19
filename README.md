@@ -4,7 +4,7 @@
 ### {oh,hi there 👋}
 - myself
 ![Name](https://github.com/arihant-2310/arihant-2310/blob/master/name.gif)
-- a CSE student with complete 3 years experience 😄
+- CSE student with complete 3 years experience 😄
 - 4th running as usual 😉
 - 📫 ping me:(https://www.instagram.com/arihant_2310/)
         <br>Let's spent some time dealing with bugs together 👯 
