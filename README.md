@@ -8,6 +8,8 @@
 - 4th running as usual 😉
 - 📫 ping me:(https://www.instagram.com/arihant_2310/)
         <br>Let's spent some time dealing with bugs together 👯 
+<img src="https://github-readme-stats.vercel.app/api?username=arihant-2310&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 
 <!--
 **arihant-2310/arihant-2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
