@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-2310&langs_count=5&theme=dracula)
 
 ## My Github Status 🦸
-![](https://activity-graph.herokuapp.com/graph?username=arihant-2310&theme=github)
+[![Arihant's github activity graph](https://activity-graph.herokuapp.com/graph?username=arihant-2310)](https://github.com/arihant-2310/github-readme-activity-graph)
