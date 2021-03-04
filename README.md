@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Trending Repos 💻
+![](https://github-readme-stats.vercel.app/api/pin/?username=arihant-2310&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=arihant-2310&repo=ludo&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
