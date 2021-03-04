@@ -6,7 +6,7 @@
 ![Name](https://github.com/arihant-2310/arihant-2310/blob/master/name.gif)
 - CSE student with complete 3 years experience 😄
 - 4th running as usual 😉
-- 📫 ping me:(https://www.instagram.com/arihant_2310/)
+- 📫 ping me:(https://www.linkedin.com/in/arihant-hirawat-099578170/)
         <br>Let's spent some time dealing with bugs together 👯 
 <img src="https://github-readme-stats.vercel.app/api?username=arihant-2310&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
