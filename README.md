@@ -1,8 +1,8 @@
 ![head](https://user-images.githubusercontent.com/61475220/97102081-807edc80-16c8-11eb-901c-f7d332efa79c.png)
 ![HitCount](http://hits.dwyl.com/arihant-2310/arihant-2310.svg)  <a href="https://github.com/arihant-2310"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>
 
-<img src="https://www.freepik.com/free-vector/programming-concept-illustration_7118756.htm#page=1&query=coding&position=2![image](https://user-images.githubusercontent.com/36256102/110010346-35469b80-7d44-11eb-9717-7254d57199e1.png)
-6" align=right>
+<img src="<img src="https://user-images.githubusercontent.com/61475220/97093903-6d8aee80-166d-11eb-8799-13e119380d2b.jpg" width="50%" align=right>
+
 
 
 ### {oh,hi there 👋}
