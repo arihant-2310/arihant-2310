@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-2310&langs_count=5&theme=dracula)
+![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-2310&langs_count=5&theme=radical)
 
 ## My skills 🚀
 
@@ -40,9 +40,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-<a href="https://github.com/arihant-2310/arihant-2310">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arihant-2310&layout=compact" />
-</a>
-</p>
+
 
