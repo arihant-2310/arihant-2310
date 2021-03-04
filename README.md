@@ -1,7 +1,5 @@
 ![HitCount](http://hits.dwyl.com/arihant-2310/arihant-2310.svg)  <a href="https://github.com/arihant-2310"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>
-
-
-
+<img src="<img src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" width="30%" align=right>
 
 ### {oh,hi there 👋}
 - myself
@@ -25,7 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="<img src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" width="50%" align=right>
 
 <section align="center">
 <h2 align='center'><i>Tech Stack</i></h2>
