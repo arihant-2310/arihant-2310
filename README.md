@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
+<h2 align='center'><i>Tech Stack</i></h2>
 
 <table width="100">
 <tr>
@@ -97,7 +97,6 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-<h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
