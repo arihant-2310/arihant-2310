@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
 <h2 align='center'><i>Tech Stack</i></h2>
 
 <table width="100">
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
     </td>
 </tr>
 </table>
-
+</div>
 
 <p align="center">
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
