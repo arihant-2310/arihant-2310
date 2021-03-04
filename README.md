@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-2310&langs_count=3&theme=dracula)
+![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-2310&langs_count=5&theme=dracula)
