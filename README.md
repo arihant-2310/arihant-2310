@@ -40,4 +40,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<p align="center">
+<a href="https://github.com/Ashutosh00710/Ashutosh00710">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arihant-2310&layout=compact" />
+</a>
+</p>
 
