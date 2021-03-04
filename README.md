@@ -1,4 +1,3 @@
-![head](https://user-images.githubusercontent.com/61475220/97102081-807edc80-16c8-11eb-901c-f7d332efa79c.png)
 ![HitCount](http://hits.dwyl.com/arihant-2310/arihant-2310.svg)  <a href="https://github.com/arihant-2310"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>
 
 <img src="<img src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" width="50%" align=right>
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<div align="center">
 <h2 align='center'><i>Tech Stack</i></h2>
 
 <table width="100">
