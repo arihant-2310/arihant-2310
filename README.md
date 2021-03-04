@@ -8,7 +8,7 @@
 - 4th running as usual 😉
 - 📫 ping me:(https://www.linkedin.com/in/arihant-hirawat-099578170/)
         <br>Let's spent some time dealing with bugs together 👯 
-<img src="https://github-readme-stats.vercel.app/api?username=arihant-2310&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=arihant-2310&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919theme=radical">
 
 
 <!--
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-2310&langs_count=5&theme=radical)
+![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-2310&langs_count=5&theme=dracula)
 
 ## My skills 🚀
 
