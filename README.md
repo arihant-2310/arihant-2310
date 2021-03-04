@@ -82,6 +82,18 @@ Here are some ideas to get you started:
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
     </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+    </td>
+     <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+    </td>
 </tr>
 </table>
 
