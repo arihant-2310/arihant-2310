@@ -96,6 +96,14 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
     </td>
 </tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg">
+    </td>
+</tr>
 </table>
 </section>
 
