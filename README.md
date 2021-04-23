@@ -11,6 +11,9 @@
 <!--
 **arihant-2310/arihant-2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arihant-2310&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -25,7 +28,6 @@ Here are some ideas to get you started:
 
 <section align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arihant-2310&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 <h2 align='center'><i>Tech Stack</i></h2>
 
@@ -121,7 +123,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/arihant-2310/arihant-2310">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arihant2310&layout=compact" />
 </a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arihant-2310&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 
