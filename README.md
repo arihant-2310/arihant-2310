@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 -->
 
 <section align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arihant-2310&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 <h2 align='center'><i>Tech Stack</i></h2>
 
 <table width="100">
