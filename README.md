@@ -121,6 +121,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/arihant-2310/arihant-2310">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arihant2310&layout=compact" />
 </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arihant-2310&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 
