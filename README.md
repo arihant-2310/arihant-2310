@@ -115,11 +115,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihant-2310&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=vue-dark&hide_border=true" />
 </a>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arihant-2310&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
 <a href="https://github.com/arihant-2310/arihant-2310">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arihant2310&layout=compact" />
 </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arihant-2310&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 
