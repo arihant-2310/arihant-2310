@@ -1,6 +1,5 @@
-![HitCount](http://hits.dwyl.com/arihant-2310/arihant-2310.svg)  <a href="https://github.com/arihant-2310"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>
+[![HitCount](http://hits.dwyl.com/arihant-2310/arihant-2310.svg)  <a href="https://github.com/arihant-2310"><img src="https://img.shields.io/github/followers/arihant-2310?label=Follow&style=social"></a>
 <img src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" width="30%" align=right>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arihant-2310&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 ### {oh,hi there 👋}
 - myself
 ![Name](https://github.com/arihant-2310/arihant-2310/blob/master/name.gif)
