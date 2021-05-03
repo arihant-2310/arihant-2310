@@ -1,5 +1,6 @@
 <img src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg" width="30%" align=right>
-### {oh,hi there 👋}
+
+##  {oh,hi there 👋}
 - myself
 ![Name](https://github.com/arihant-2310/arihant-2310/blob/master/name.gif)
 - CSE student with complete 3 years experience 😄
