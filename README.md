@@ -115,9 +115,6 @@ Here are some ideas to get you started:
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg">
-    </td>
 </tr>
 </table>
 </section>
