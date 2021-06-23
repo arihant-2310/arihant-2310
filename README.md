@@ -4,7 +4,6 @@
 - myself
 ![Name](https://github.com/arihant-2310/arihant-2310/blob/master/name.gif)
 - CSE student with complete 4 years experience 😄
-- 4th running as usual 😉
 - 📫 ping me:(https://www.linkedin.com/in/arihant-hirawat-099578170/)
        
 
