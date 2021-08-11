@@ -114,6 +114,9 @@ Here are some ideas to get you started:
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg">
     </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-official.svg">
+    </td>
 </tr>
 </table>
 </section>
