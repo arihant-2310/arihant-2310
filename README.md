@@ -117,6 +117,10 @@ Here are some ideas to get you started:
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-official.svg">
     </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">
+    </td>
+       
 </tr>
 </table>
 </section>
